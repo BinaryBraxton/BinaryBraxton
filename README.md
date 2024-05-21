@@ -1,3 +1,4 @@
+[![MasterHead](https://media.licdn.com/dms/image/D4D12AQFXUMCI_xZ3EQ/article-cover_image-shrink_720_1280/0/1683909809034?e=2147483647&v=beta&t=4fGfWqzZukhw96bqPVg3D7DcGj9QURTHNOlUH_XShXY)
 <h1 align="center">Hi 👋, I'm Zain Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
